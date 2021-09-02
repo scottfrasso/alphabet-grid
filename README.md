@@ -2,7 +2,7 @@
 
 # Build Status
 
-[![CircleCI](https://circleci.com/gh/scottfrasso/alphabet_grid/tree/master.svg?style=svg&circle-token=04050410d5c8ad6cbe476a9f47dbb91ec1ab3b64)](https://circleci.com/gh/scottfrasso/alphabet_grid/tree/master)
+[![CircleCI](https://circleci.com/gh/scottfrasso/alphabet_grid/tree/master.svg?style=shield&circle-token=04050410d5c8ad6cbe476a9f47dbb91ec1ab3b64)](https://circleci.com/gh/scottfrasso/alphabet_grid/tree/master)
 
 # The problem
 
